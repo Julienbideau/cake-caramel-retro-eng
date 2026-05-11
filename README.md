@@ -1,6 +1,6 @@
 # Projet "Cake Honoré" — Recherche & développement
 
-> Reproduire le **Cake au Caramel** de la Boulangerie d'Honoré (vu à la cantine Doctolib, vendu chez La Boulangerie d'Honoré, Paris).
+> Reproduire le **Cake au Caramel** de la Boulangerie d'Honoré (vu à la cantine Doctolib, vendu chez La Boulangerie d'Honoré).
 > Profil cible : mie orangée-cuivrée, croûte fortement caramélisée acajou, profil aromatique caramel lacté ("Carambar"), amandes effilées.
 > Allergènes officiels : gluten, œufs, lait, sulfites, fruits à coques.
 
