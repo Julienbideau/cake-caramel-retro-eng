@@ -30,7 +30,7 @@
 - 1 pincée fleur de sel
 - Re-cuire 5 min à feu doux
 
-Réserver 200 g pour la pâte.
+Utiliser tout le caramel (~250 g) dans la pâte.
 
 ## Étape 2 — Beurre fondu (V6 conservé : pas noisette)
 
@@ -47,7 +47,7 @@ Pas de beurre ni de vergeoise sur les parois : la caramélisation beurre+sucre e
 
 **Secs**
 - **200 g** farine T55 *(sans poudre d'amande — pas 220 g car le split beurre/huile apporte déjà beaucoup de gras)*
-- **120 g vergeoise brune** *(remplace 100 g muscovado de V5 — clé de la couleur orangée)*
+- **90 g vergeoise brune** *(↓ 30 g pour compenser le sucre du caramel utilisé en entier)*
 - **6 g** bicarbonate de soude
 - **2 g levure chimique** *(NOUVEAU — apporte la pousse aérée)*
 - 1 pincée fleur de sel
@@ -55,7 +55,7 @@ Pas de beurre ni de vergeoise sur les parois : la caramélisation beurre+sucre e
 **Liquides / gras**
 - **150 g** beurre fondu tiédi (↑ 20 g vs V5)
 - **50 g** huile neutre *(NOUVEAU — l'élément "boom" en bouche)*
-- 200 g caramel lacté tiédi
+- **~250 g** caramel lacté tiédi (tout le caramel de l'étape 1)
 - 60 g crème fleurette
 - **3 œufs** entiers à T° ambiante
 - 1 c. à c. jus de citron
@@ -109,7 +109,7 @@ Pas de beurre ni de vergeoise sur les parois : la caramélisation beurre+sucre e
 - **Vergeoise brune de qualité** (pas le générique sucre roux)
 - **Crème fleurette entière** (33 % min)
 - **Œufs fermiers / bio**
-- **Poudre d'amande blanche** (pas brune, qui changerait la couleur) *(pour une prochaine V7.1 si disponible)*
+- **Poudre d'amande blanche** (pas brune, qui changerait la couleur)
 
 ## Versions liées
 
