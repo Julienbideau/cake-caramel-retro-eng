@@ -40,8 +40,8 @@ Réserver 200 g pour la pâte.
 
 ## Étape 3 — Préparer le moule
 
-Beurrer généreusement les parois, saupoudrer de **vergeoise** (au lieu de muscovado).
-Chemiser papier sulfurisé en bande dépassante (anti-déchirement).
+**Papier sulfurisé pur** — chemiser entièrement le moule avec bande dépassante (anti-déchirement).
+Pas de beurre ni de vergeoise sur les parois : la caramélisation beurre+sucre en contact direct donnerait exactement la note "moelleux au chocolat" qu'on cherche à éviter.
 
 ## Étape 4 — Pâte
 
@@ -80,7 +80,6 @@ Chemiser papier sulfurisé en bande dépassante (anti-déchirement).
 ### Pourquoi 150 °C
 - Évite la note "croûte gâteau au chocolat" (Maillard avancée sur protéines beurre)
 - Cake riche en gras (150 g beurre + 50 g huile) = beaucoup de matière à torréfier → mieux vaut cuire doux
-- La caramélisation des parois (beurre + vergeoise saupoudrée) se fait quand même à 150 °C
 - Levure chimique permet une pousse propre sans choc thermique
 
 ## Étape 7 — Momification
