@@ -20,7 +20,7 @@
 |---|---|---|
 | Couleur trop sombre | Muscovado tire vers brun chocolat profond | Remplacer par **vergeoise brune** |
 | Mie trop dense | Bicarbonate seul + maryse + pas d'aération = fudge | + **2 g levure chimique** + fouettage bref œufs |
-| Pas d'explosion gras en bouche | Beurre dosé moyen + densité écrase | **150 g beurre + 50 g huile neutre** (split) |
+| Pas d'explosion gras en bouche | Beurre dosé moyen + densité écrase | **120 g beurre + 80 g huile neutre** (split) |
 | Trop fudge | V5 visait fudge à tort | Cuisson plus courte, mie qui pousse |
 
 ## Étape 1 — Caramel lacté (V5 inchangé, validé)
@@ -34,7 +34,7 @@ Utiliser tout le caramel (~250 g) dans la pâte.
 
 ## Étape 2 — Beurre fondu (V6 conservé : pas noisette)
 
-- **150 g** beurre demi-sel ↑ vs V5 (130 g)
+- **120 g** beurre demi-sel *(stock limité)*
 - Fondre doux, **pas de coloration** (éviter l'arrière-goût torréfié)
 - Laisser tiédir
 
@@ -53,8 +53,8 @@ Pas de beurre ni de vergeoise sur les parois : la caramélisation beurre+sucre e
 - 1 pincée fleur de sel
 
 **Liquides / gras**
-- **150 g** beurre fondu tiédi (↑ 20 g vs V5)
-- **50 g** huile neutre *(NOUVEAU — l'élément "boom" en bouche)*
+- **120 g** beurre fondu tiédi *(stock limité — compensé par +30g huile)*
+- **80 g** huile neutre *(↑ pour compenser le beurre réduit, total gras inchangé)*
 - **~250 g** caramel lacté tiédi (tout le caramel de l'étape 1)
 - 60 g crème fleurette
 - **3 œufs** entiers à T° ambiante
@@ -78,7 +78,7 @@ Pas de beurre ni de vergeoise sur les parois : la caramélisation beurre+sucre e
 
 ### Pourquoi 150 °C
 - Évite la note "croûte gâteau au chocolat" (Maillard avancée sur protéines beurre)
-- Cake riche en gras (150 g beurre + 50 g huile) = beaucoup de matière à torréfier → mieux vaut cuire doux
+- Cake riche en gras (120 g beurre + 80 g huile) = beaucoup de matière à torréfier → mieux vaut cuire doux
 - Levure chimique permet une pousse propre sans choc thermique
 
 ## Étape 7 — Momification
