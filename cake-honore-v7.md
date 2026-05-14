@@ -46,8 +46,7 @@ Pas de beurre ni de vergeoise sur les parois : la caramélisation beurre+sucre e
 ## Étape 4 — Pâte
 
 **Secs**
-- **170 g** farine T55 *(↓ 30 g pour faire place à la poudre d'amande)*
-- **50 g** poudre d'amande *(NOUVEAU V7.1 — friabilité + retient le gras = "boom beurre" à la mâche)*
+- **200 g** farine T55 *(sans poudre d'amande — pas 220 g car le split beurre/huile apporte déjà beaucoup de gras)*
 - **120 g vergeoise brune** *(remplace 100 g muscovado de V5 — clé de la couleur orangée)*
 - **6 g** bicarbonate de soude
 - **2 g levure chimique** *(NOUVEAU — apporte la pousse aérée)*
@@ -110,7 +109,7 @@ Pas de beurre ni de vergeoise sur les parois : la caramélisation beurre+sucre e
 - **Vergeoise brune de qualité** (pas le générique sucre roux)
 - **Crème fleurette entière** (33 % min)
 - **Œufs fermiers / bio**
-- **Poudre d'amande blanche** (pas brune, qui changerait la couleur)
+- **Poudre d'amande blanche** (pas brune, qui changerait la couleur) *(pour une prochaine V7.1 si disponible)*
 
 ## Versions liées
 
