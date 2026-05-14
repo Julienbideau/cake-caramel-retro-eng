@@ -30,7 +30,7 @@
 - 1 pincée fleur de sel
 - Re-cuire 5 min à feu doux
 
-Utiliser tout le caramel (~250 g) dans la pâte.
+Utiliser tout le caramel dans la pâte. **Rendement mesuré : ~220 g** (pas 250g comme estimé — évaporation plus importante que prévu).
 
 ## Étape 2 — Beurre fondu (V6 conservé : pas noisette)
 
@@ -55,8 +55,8 @@ Pas de beurre ni de vergeoise sur les parois : la caramélisation beurre+sucre e
 **Liquides / gras**
 - **120 g** beurre fondu tiédi *(stock limité — compensé par +30g huile)*
 - **80 g** huile neutre *(↑ pour compenser le beurre réduit, total gras inchangé)*
-- **~250 g** caramel lacté tiédi (tout le caramel de l'étape 1)
-- 60 g crème fleurette
+- **~220 g** caramel lacté tiédi (tout le caramel de l'étape 1 — rendement mesuré)
+- **30 g** crème fleurette *(stock limité, 60 g en théorie)*
 - **3 œufs** entiers à T° ambiante
 - 1 c. à c. jus de citron
 
