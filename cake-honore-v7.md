@@ -19,7 +19,7 @@
 | Écart | Cause hypothétique | Correction V7 |
 |---|---|---|
 | Couleur trop sombre | Muscovado tire vers brun chocolat profond | Remplacer par **vergeoise brune** |
-| Mie trop dense | Bicarbonate seul + maryse + pas d'aération = fudge | + **2 g levure chimique** + fouettage bref œufs |
+| Mie trop dense | Bicarbonate seul + maryse + pas d'aération = fudge | Fouettage bref œufs (levure inutile — confirmé V7) |
 | Pas d'explosion gras en bouche | Beurre dosé moyen + densité écrase | **120 g beurre + 80 g huile neutre** (split) |
 | Trop fudge | V5 visait fudge à tort | Cuisson plus courte, mie qui pousse |
 
@@ -30,89 +30,95 @@
 - 1 pincée fleur de sel
 - Re-cuire 5 min à feu doux
 
-Utiliser tout le caramel dans la pâte. **Rendement mesuré : ~220 g** (pas 250g comme estimé — évaporation plus importante que prévu).
+Utiliser tout le caramel dans la pâte. **Rendement mesuré : ~220 g** (évaporation plus importante que prévu).
 
-## Étape 2 — Beurre fondu (V6 conservé : pas noisette)
+## Étape 2 — Beurre fondu (pas noisette)
 
-- **120 g** beurre demi-sel *(stock limité)*
-- Fondre doux, **pas de coloration** (éviter l'arrière-goût torréfié)
+- **150 g** beurre demi-sel *(120 g en V7 par contrainte stock)*
+- Fondre doux, **pas de coloration**
 - Laisser tiédir
 
 ## Étape 3 — Préparer le moule
 
 **Papier sulfurisé pur** — chemiser entièrement le moule avec bande dépassante (anti-déchirement).
-Pas de beurre ni de vergeoise sur les parois : la caramélisation beurre+sucre en contact direct donnerait exactement la note "moelleux au chocolat" qu'on cherche à éviter.
+Pas de beurre ni de vergeoise sur les parois.
 
 ## Étape 4 — Pâte
 
 **Secs**
-- **200 g** farine T55 *(sans poudre d'amande — pas 220 g car le split beurre/huile apporte déjà beaucoup de gras)*
-- **90 g vergeoise brune** *(↓ 30 g pour compenser le sucre du caramel utilisé en entier)*
-- **6 g** bicarbonate de soude
-- **2 g levure chimique** *(NOUVEAU — apporte la pousse aérée)*
+- **200 g** farine T55 *(sans poudre d'amande — à réintroduire en V8)*
+- **90 g vergeoise brune**
+- **6 g** bicarbonate de soude *(→ 4 g en V8 pour réduire la tenue)*
 - 1 pincée fleur de sel
 
 **Liquides / gras**
-- **120 g** beurre fondu tiédi *(stock limité — compensé par +30g huile)*
-- **80 g** huile neutre *(↑ pour compenser le beurre réduit, total gras inchangé)*
-- **~220 g** caramel lacté tiédi (tout le caramel de l'étape 1 — rendement mesuré)
-- **30 g** crème fleurette *(stock limité, 60 g en théorie)*
+- **150 g** beurre fondu tiédi *(120 g en V7 par contrainte stock)*
+- **50 g** huile neutre *(80 g en V7 par contrainte stock)*
+- **~220 g** caramel lacté tiédi (tout le caramel de l'étape 1)
+- **60 g** crème fleurette *(30 g en V7 par contrainte stock)*
 - **3 œufs** entiers à T° ambiante
 - 1 c. à c. jus de citron
 
 **Topping** : amandes effilées + pincée vergeoise
 
-## Étape 5 — Mélange (CHANGEMENT vs V5)
+## Étape 5 — Mélange
 
 1. Mélanger les secs.
-2. Saladier 2 : **fouetter brièvement (30 sec) les œufs + 30 g de la vergeoise** prélevée des secs, juste pour les détendre et incorporer un peu d'air *(NOUVEAU — V5 disait "pas blanchir", V7 dit "détendre 30 sec")*.
+2. Saladier 2 : **fouetter brièvement (30 sec) les œufs + 30 g de vergeoise** prélevée des secs.
 3. Ajouter beurre fondu + huile + caramel lacté + crème + citron. Mélanger sans aérer.
-4. Verser sur les secs. **Mélanger à la maryse** juste à homogène. Ne pas trop travailler.
+4. Verser sur les secs. **Mélanger à la maryse** juste à homogène.
 
 ## Étape 6 — Cuisson
 
-- **150 °C chaleur tournante** *(↓ vs V5/V6 — évite la note "croûte fondant choco" venue de la Maillard avancée)*
-- **55-65 min** (cake plus aéré, cuit progressivement)
-- Test couteau : doit ressortir **propre** (pas miettes humides — on cherche un cake aéré, pas fudge)
-- **Finition uniquement si croûte trop pâle** : 3-4 min à 180 °C **chaleur statique** (résistance haut), juste pour roussir le dessus sans surcuire les bords
-
-### Pourquoi 150 °C
-- Évite la note "croûte gâteau au chocolat" (Maillard avancée sur protéines beurre)
-- Cake riche en gras (120 g beurre + 80 g huile) = beaucoup de matière à torréfier → mieux vaut cuire doux
-- Levure chimique permet une pousse propre sans choc thermique
+- **150 °C chaleur tournante**
+- **55-65 min**
+- Test couteau : doit ressortir **propre**
+- **Finition si croûte trop pâle** : 3-4 min à 180 °C chaleur statique
 
 ## Étape 7 — Momification
 
 - 15 min dans le moule
-- Démouler tiède (chemise papier facilite)
+- Démouler tiède
 - Filmer hermétiquement chaud
 - 24 h à T° ambiante
 
-## Hypothèses si V7 rate
+## Retour dégust V7 (2026-05-15)
 
-- Si encore trop foncé : ↓ vergeoise à 100 g + 20 g sucre blanc
-- Si pas assez "boom beurre" : monter beurre à 170 g, huile à 60 g
-- Si encore trop dense : monter levure chimique à 3 g, baisser bicarbonate à 4 g
-- Si trop sec : ajouter 50 g eau bouillante en fin de pâte (technique V3 réintroduite partiellement)
-- Si arrière-goût torréfié encore présent : ↓ cuisson 145 °C ou enlever bicarbonate complètement (la Maillard alcaline = aussi un facteur torréfaction)
+| Critère | Résultat |
+|---|---|
+| Couleur | Brun foncé — encore trop acajou, cible pas atteinte |
+| Mie | Aérée, friable, alvéoles visibles — **texture cible atteinte** (sans levure chimique !) |
+| Croûte | Parfaite — coupole, craquelée, pas de note "fondant choco" |
+| Goût | **Le plus proche de l'original à ce jour** — explosion en bouche validée |
+| Sel | Moins salé que V5 (moins de beurre demi-sel) — pas un défaut |
+| Tenue | Se tient mieux que l'original → bicarbonate à réduire en V8 |
+
+Note : levure chimique oubliée — mie aérée quand même. **Levure inutile confirmé.** Bicarbonate + fouettage 30 sec suffisent.
+
+Substitutions V7 (stock limité) : 120g beurre, 80g huile, 30g crème, pas de poudre d'amande. Meilleur résultat à date malgré les contraintes.
+
+## Pistes V8
+
+- Bicarbonate 6 g → **4 g** (tenue trop ferme vs original)
+- Réintroduire **poudre d'amande 50 g** + farine 170 g (profondeur manquante)
+- Beurre 150 g, crème 60 g (dosages théoriques, pas contraints)
+- Vergeoise brune → tester **vergeoise blonde** ou moitié blonde / moitié brune pour couleur plus claire
 
 ## Sources de calibrage
 
-- **Photo AB testing** : V5 (gauche) vs Original (droite) — preuve directe que V5 ≠ Honoré
+- **Photo AB testing** : V5 (gauche) vs Original (droite)
 - Retour palais bureau (5+ goûteurs) : V5 universellement appréciée mais pas confondue avec l'original
-- Retour personnel : "explosion beurre/huile en bouche" sur l'original
-- **Prix Honoré : 24 €/kg** = positionnement boulangerie premium parisienne. Inférence : qualité matières premières (beurre AOP type Échiré/Charentes-Poitou, sucre non raffiné, vanille gousse, amandes premium). Pas d'ingrédient exotique. Signature pâtisserie classique = poudre d'amande probable dans la pâte.
+- Retour personnel V7 : explosion en bouche validée, goût le plus proche à ce jour
 
 ## Recommandations qualité ingrédients
 
-- **Beurre AOP** (Échiré, Bordier, Charentes-Poitou) — change réellement la perception "boom beurre" vs beurre standard
-- **Vergeoise brune de qualité** (pas le générique sucre roux)
+- **Beurre AOP** (Échiré, Bordier, Charentes-Poitou)
+- **Vergeoise de qualité** (pas le générique sucre roux)
 - **Crème fleurette entière** (33 % min)
 - **Œufs fermiers / bio**
-- **Poudre d'amande blanche** (pas brune, qui changerait la couleur)
+- **Poudre d'amande blanche** (pas brune)
 
 ## Versions liées
 
-- Parent direct : `cake-honore-v5.md` (succès partiel — Carambar OK, texture/couleur off)
-- V6 abandonnée (basée sur diagnostic erroné "fudge dense") : voir `cake-honore-v6.md` mais ignorer
-- Sucre : retour à la vergeoise comme V3/V4
+- Parent direct : `cake-honore-v5.md`
+- V6 abandonnée : voir `cake-honore-v6.md` mais ignorer
